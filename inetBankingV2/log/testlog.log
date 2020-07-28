@@ -1,0 +1,84 @@
+2020-06-23 12:31:55,366 - inetBanking2 -INFO - URL opened
+2020-06-23 12:32:01,408 - inetBanking2 -INFO - UserName enered
+2020-06-23 12:32:01,886 - inetBanking2 -INFO - Password enered
+2020-06-23 12:32:03,371 - inetBanking2 -INFO - click submit
+2020-06-23 12:32:03,387 - inetBanking2 -INFO - Test case passed
+2020-06-23 12:33:45,693 - inetBanking2 -INFO - URL opened
+2020-06-23 12:33:50,899 - inetBanking2 -INFO - UserName enered
+2020-06-23 12:33:51,004 - inetBanking2 -INFO - Password enered
+2020-06-23 12:33:52,600 - inetBanking2 -INFO - click submit
+2020-06-23 12:33:52,630 - inetBanking2 -INFO - Test case passed
+2020-06-23 13:15:43,118 - inetBanking2 -INFO - URL opened
+2020-06-23 13:15:48,771 - inetBanking2 -INFO - UserName enered
+2020-06-23 13:15:49,038 - inetBanking2 -INFO - Password enered
+2020-06-23 13:15:52,141 - inetBanking2 -INFO - click submit
+2020-06-23 13:15:52,152 - inetBanking2 -INFO - Test case passed
+2020-06-23 15:13:34,413 - inetBanking2 -INFO - URL opened
+2020-06-23 15:13:40,008 - inetBanking2 -INFO - UserName enered
+2020-06-23 15:13:40,089 - inetBanking2 -INFO - Password enered
+2020-06-23 15:13:42,099 - inetBanking2 -INFO - click submit
+2020-06-23 15:13:42,162 - inetBanking2 -INFO - Test case passed
+2020-06-23 15:55:29,174 - inetBanking2 -INFO - URL opened
+2020-06-23 15:55:34,463 - inetBanking2 -INFO - UserName enered
+2020-06-23 15:55:34,534 - inetBanking2 -INFO - Password enered
+2020-06-23 15:55:36,222 - inetBanking2 -INFO - click submit
+2020-06-23 15:55:36,242 - inetBanking2 -INFO - Test case passed
+2020-06-24 15:35:56,283 - inetBanking2 -INFO - user name provided
+2020-06-24 15:35:56,608 - inetBanking2 -INFO - password provided
+2020-06-24 15:36:01,746 - inetBanking2 -INFO - user name provided
+2020-06-24 15:36:01,845 - inetBanking2 -INFO - password provided
+2020-06-24 15:36:05,797 - inetBanking2 -INFO - user name provided
+2020-06-24 15:36:06,039 - inetBanking2 -INFO - password provided
+2020-06-24 15:36:09,907 - inetBanking2 -INFO - user name provided
+2020-06-24 15:36:10,096 - inetBanking2 -INFO - password provided
+2020-06-24 15:36:13,917 - inetBanking2 -INFO - user name provided
+2020-06-24 15:36:14,088 - inetBanking2 -INFO - password provided
+2020-06-24 16:22:33,803 - inetBanking2 -INFO - user name provided
+2020-06-24 16:22:34,200 - inetBanking2 -INFO - password provided
+2020-06-24 16:22:38,510 - inetBanking2 -INFO - user name provided
+2020-06-24 16:22:38,563 - inetBanking2 -INFO - password provided
+2020-06-24 16:22:42,607 - inetBanking2 -INFO - user name provided
+2020-06-24 16:22:42,651 - inetBanking2 -INFO - password provided
+2020-06-24 16:22:46,398 - inetBanking2 -INFO - user name provided
+2020-06-24 16:22:46,480 - inetBanking2 -INFO - password provided
+2020-06-24 16:22:50,128 - inetBanking2 -INFO - user name provided
+2020-06-24 16:22:50,191 - inetBanking2 -INFO - password provided
+2020-06-24 16:23:18,474 - inetBanking2 -INFO - User name is provided
+2020-06-24 16:23:20,011 - inetBanking2 -INFO - Passsword is provided
+2020-06-24 16:23:26,620 - inetBanking2 -INFO - providing customer details....
+2020-06-24 16:23:36,852 - inetBanking2 -INFO - validation started....
+2020-07-28 14:57:13,735 - inetBanking2 -INFO - URL opened
+2020-07-28 14:57:19,322 - inetBanking2 -INFO - UserName enered
+2020-07-28 14:57:19,416 - inetBanking2 -INFO - Password enered
+2020-07-28 14:57:21,587 - inetBanking2 -INFO - click submit
+2020-07-28 14:57:21,628 - inetBanking2 -INFO - Test case passed
+2020-07-28 15:12:40,684 - inetBanking2 -INFO - URL opened
+2020-07-28 15:12:45,879 - inetBanking2 -INFO - UserName enered
+2020-07-28 15:12:45,941 - inetBanking2 -INFO - Password enered
+2020-07-28 15:12:47,418 - inetBanking2 -INFO - click submit
+2020-07-28 15:12:47,445 - inetBanking2 -INFO - Test case passed
+2020-07-28 15:18:54,108 - inetBanking2 -INFO - URL opened
+2020-07-28 15:18:59,305 - inetBanking2 -INFO - UserName enered
+2020-07-28 15:18:59,364 - inetBanking2 -INFO - Password enered
+2020-07-28 15:19:00,558 - inetBanking2 -INFO - click submit
+2020-07-28 15:19:00,603 - inetBanking2 -INFO - Test case passed
+2020-07-28 15:38:50,730 - inetBanking2 -INFO - URL opened
+2020-07-28 15:38:55,916 - inetBanking2 -INFO - UserName enered
+2020-07-28 15:38:55,971 - inetBanking2 -INFO - Password enered
+2020-07-28 15:38:57,234 - inetBanking2 -INFO - click submit
+2020-07-28 15:38:57,261 - inetBanking2 -INFO - Test case passed
+2020-07-28 16:57:47,435 - inetBanking2 -INFO - URL opened
+2020-07-28 16:57:53,333 - inetBanking2 -INFO - UserName enered
+2020-07-28 16:57:53,647 - inetBanking2 -INFO - Password enered
+2020-07-28 16:57:55,415 - inetBanking2 -INFO - click submit
+2020-07-28 16:57:55,450 - inetBanking2 -INFO - Test case passed
+2020-07-28 17:13:04,754 - inetBanking2 -INFO - URL opened
+2020-07-28 17:13:16,480 - inetBanking2 -INFO - UserName enered
+2020-07-28 17:13:17,227 - inetBanking2 -INFO - Password enered
+2020-07-28 17:13:49,941 - inetBanking2 -INFO - click submit
+2020-07-28 17:13:49,979 - inetBanking2 -INFO - Test case passed
+2020-07-28 17:19:51,929 - inetBanking2 -INFO - URL opened
+2020-07-28 17:20:03,257 - inetBanking2 -INFO - UserName enered
+2020-07-28 17:20:03,318 - inetBanking2 -INFO - Password enered
+2020-07-28 17:20:11,110 - inetBanking2 -INFO - click submit
+2020-07-28 17:20:11,226 - inetBanking2 -INFO - Test case passed
